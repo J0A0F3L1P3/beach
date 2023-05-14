@@ -1,15 +1,15 @@
 @font-face {
-	font-family: "alexana";
-	src: url("Alexana.ttf");
+    font-family: "alexana";
+    src: url("Alexana.ttf");
 }
 
 *{
     padding: 0px;
     margin: 0px;
-	scroll-behavior: smooth;
-	box-sizing: border-box;
-	user-select: none;
-	font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    user-select: none;
+    font-family: Arial, sans-serif;
 }
 
 ::-webkit-scrollbar{
